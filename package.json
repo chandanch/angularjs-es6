@@ -1,0 +1,10 @@
+{
+  "name": "angularjs-iuwkeh",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/angularjs-iuwkeh",
+  "dependencies": {
+    "angular": "1.6.9",
+    "@uirouter/angularjs": "1.0.15"
+  },
+  "version": "1.0.0"
+}
